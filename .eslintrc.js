@@ -18,5 +18,8 @@ module.exports = {
     '@typescript-eslint'
   ],
   rules: {
+    // 'no-unused-vars': 'error',
+    // 'vue/no-dupe-v-else-if': 'error',
+    // 'vue/script-setup-uses-vars': 'off'
   }
 }
